@@ -16,10 +16,14 @@ timezone:
 
 title: Secusavvy # the main title
 
-tagline: Computer Networking Specialist | Penetration Tester | CTF Player # it will display as the subtitle
+tagline: Networks & Systems Student | Security Focused # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to your ultimate resource for networking and cybersecurity. Dive into expert insights, tips, and tutorials covering a wide range of topics. Master networking protocols like TCP/IP, DNS, DHCP, and HTTP/HTTPS, alongside advanced concepts such as subnetting, IP addressing, VLANs, and the OSI model. Explore the intricacies of network security, firewalls, VPNs, NAT, load balancing, and wireless networking.
+
+In cybersecurity, discover tools, techniques, and best practices for ethical hacking, penetration testing, vulnerability scanning, and malware analysis. Solve CTF challenges with detailed walkthroughs and learn about web application security, the OWASP Top 10, encryption, social engineering, and threat hunting.
+
+Stay ahead with practical guides on network troubleshooting, performance optimization, and automation, while also understanding cybersecurity frameworks like NIST and ISO 27001. Whether you’re a beginner or an advanced learner, our platform empowers you with actionable knowledge for real-world applications in networking and cybersecurity.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
